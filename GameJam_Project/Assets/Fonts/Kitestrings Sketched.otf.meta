@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd8e452ee37fc8b48bcca9f6ad3e6bf0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KiTestRings skEtcHed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 990da91399f094e409e035276f6fad71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

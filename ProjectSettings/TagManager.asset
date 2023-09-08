@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2
+  - Player1
+  - check
+  - checkdead
+  - finishpoint
+  - boxR
+  - boxB
+  - rock
+  - red
+  - blue
+  - yellow
+  - green
+  - MoveMap5
+  - MoveMap52
+  - MoveMap53
+  - MoveMap54
+  - biglaser
+  - bidlaser2
+  - endgame
+  - non
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player1
+  - Player2
+  - check
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
